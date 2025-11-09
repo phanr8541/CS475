@@ -1,0 +1,6 @@
+﻿  Proj3.cpp
+C:\Users\Richard\Desktop\OSU\CS475\Project3\Proj3\Proj3\UsCities.data(334,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Richard\Desktop\OSU\CS475\Project3\Proj3\Proj3\Proj3.cpp(85,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project3\Proj3\Proj3\Proj3.cpp(109,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Richard\Desktop\OSU\CS475\Project3\Proj3\Proj3\Proj3.cpp(151,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Proj3.vcxproj -> C:\Users\Richard\Desktop\OSU\CS475\Project3\Proj3\Debug\Proj3.exe

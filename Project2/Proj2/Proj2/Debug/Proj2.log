@@ -1,0 +1,9 @@
+﻿  Proj2.cpp
+C:\Users\Richard\Desktop\OSU\CS475\Project2\Proj2\Proj2\Proj2.cpp(67,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project2\Proj2\Proj2\Proj2.cpp(69,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project2\Proj2\Proj2\Proj2.cpp(72,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project2\Proj2\Proj2\Proj2.cpp(199,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project2\Proj2\Proj2\Proj2.cpp(199,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project2\Proj2\Proj2\Proj2.cpp(200,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project2\Proj2\Proj2\Proj2.cpp(200,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Proj2.vcxproj -> C:\Users\Richard\Desktop\OSU\CS475\Project2\Proj2\Debug\Proj2.exe
