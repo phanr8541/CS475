@@ -1,0 +1,7 @@
+﻿  Proj01.cpp
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(39,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(102,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(103,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(117,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Proj01.vcxproj -> C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Debug\Proj01.exe

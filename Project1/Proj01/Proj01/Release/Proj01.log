@@ -1,0 +1,9 @@
+﻿  Proj01.cpp
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(46,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(110,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(111,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(117,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Proj01\Proj01.cpp(127,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Proj01.obj : error LNK2001: unresolved external symbol "void __cdecl TimeOfDaySeed(void)" (?TimeOfDaySeed@@YAXXZ)
+Proj01.obj : error LNK2001: unresolved external symbol "float __cdecl Ranf(float,float)" (?Ranf@@YAMMM@Z)
+C:\Users\Richard\Desktop\OSU\CS475\Project1\Proj01\Release\Proj01.exe : fatal error LNK1120: 2 unresolved externals
